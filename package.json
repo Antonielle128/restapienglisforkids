@@ -19,5 +19,6 @@
   "homepage": "https://github.com/Antonielle128/restapienglisforkids#readme",
   "dependencies": {
     "json-server": "^0.16.3"
-  }
+  },
+  "devDependencies": {}
 }
